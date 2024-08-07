@@ -90,6 +90,13 @@
       "description": "chipotle",
       "category": "food",
       "amount": 400
+    },
+    {
+      "id": "1723013839163-641",
+      "date": "2024-08-08",
+      "description": "maandamano",
+      "category": "maandamano",
+      "amount": 500
     }
   ]
 }
